@@ -5,7 +5,7 @@
 
 
 
-    function getOperands (question) {
+    function getOperands(question) {
         let reply;
             do {
                 reply = prompt(question, 1);
